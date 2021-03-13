@@ -100,14 +100,14 @@
 
 ####
 
-![image](https://raw.githubusercontent.com/staybox/otus_dz16/master/screenshots/1.png)
+![image](https://github.com/MaximMiklyaev/25.network/tree/master/picture/1.png)
 
 ####
 
-![image](https://raw.githubusercontent.com/staybox/otus_dz16/master/screenshots/1.png)
+![image](https://github.com/MaximMiklyaev/25.network/tree/master/picture/2.png)
 
 ####
 
-![image](https://raw.githubusercontent.com/staybox/otus_dz16/master/screenshots/1.png)
+![image](https://github.com/MaximMiklyaev/25.network/tree/master/picture/3.png)
 
 ####end
