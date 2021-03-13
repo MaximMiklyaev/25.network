@@ -97,16 +97,5 @@
                 	1022 hosts
                       192.168.255.255 = BROADCAST
 
-####
-
-![image](https://github.com/MaximMiklyaev/25.network/tree/master/picture/1.png)
-
-####
-
-![image](https://github.com/MaximMiklyaev/25.network/tree/master/picture/2.png)
-
-####
-
-![image](https://github.com/MaximMiklyaev/25.network/tree/master/picture/3.png)
 
 ####end
